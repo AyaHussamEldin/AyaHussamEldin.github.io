@@ -632,3 +632,12 @@ a {
   aspect-ratio: 1;
   object-fit: contain;
 }
+
+.resume-item p,
+.resume-item li {
+  color: rgba(255, 255, 255, 0.8)
+}
+
+.resume-item .school {
+  color: rgba(255, 255, 255, 0.6)
+}
