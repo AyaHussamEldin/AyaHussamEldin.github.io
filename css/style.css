@@ -627,3 +627,8 @@ a {
 .about-me {
   font-size: x-large;
 }
+
+.thumb img{
+  aspect-ratio: 1;
+  object-fit: contain;
+}
